@@ -54,3 +54,7 @@ print(products_under_10_inv)
 inv_file.save("inventory_with_total_value.xlsx")
 
 
+# Output
+# {25: 7.0, 30: 6.0, 74: 2.0}
+# {'AAA Company': 43, 'BBB Company': 17, 'CCC Company': 14}
+# {'AAA Company': 10969059.95, 'BBB Company': 2375499.47, 'CCC Company': 8114363.62}
